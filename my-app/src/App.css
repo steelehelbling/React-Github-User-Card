@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+.wrap{
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+background-color: lightblue;
+}
+.card{
+  padding: 20px;
+  width: 30%;
+  background-color: aqua;
+  border: white solid 2px;
+  margin: 5px;
+}
+.img{
+  width: 50%;
+}
